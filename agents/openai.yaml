@@ -1,0 +1,4 @@
+interface:
+  display_name: "网球动作逐帧分析与评级"
+  short_description: "逐帧比较网球动作，生成雷达评分、等级估计与短视频报告"
+  default_prompt: "使用 $tennis-motion-analysis 逐帧分析我的网球视频，对比合适的职业参考，并生成评分、等级估计和训练建议。"
