@@ -1,0 +1,55 @@
+{
+  "title": "Forehand training score",
+  "dimensions": [
+    {
+      "key": "preparation",
+      "label": "引拍 / 转肩",
+      "score": 6.5,
+      "confidence": "medium",
+      "evidence": "Unit turn is visible before the forward swing."
+    },
+    {
+      "key": "loading",
+      "label": "屈膝储能",
+      "score": 5.5,
+      "confidence": "medium",
+      "evidence": "Knee flexion is present but releases early."
+    },
+    {
+      "key": "spacing",
+      "label": "击球空间",
+      "score": 6.0,
+      "confidence": "medium",
+      "evidence": "Contact is slightly close to the body in two confirmed repetitions."
+    },
+    {
+      "key": "followthrough",
+      "label": "随挥减速",
+      "score": 7.0,
+      "confidence": "medium",
+      "evidence": "The racket completes a balanced cross-body deceleration path."
+    },
+    {
+      "key": "recovery",
+      "label": "恢复 / 平衡",
+      "score": 5.5,
+      "confidence": "low",
+      "evidence": "The clip shows balance after contact but not full court recovery."
+    },
+    {
+      "key": "repeatability",
+      "label": "重复稳定性",
+      "score": 6.0,
+      "confidence": "low",
+      "evidence": "Only three usable repetitions are available."
+    }
+  ],
+  "level_estimate": {
+    "system": "NTRP-like",
+    "range": [2.5, 3.0],
+    "display": "2.5–3.0",
+    "confidence": "low",
+    "scope": "forehand technique only",
+    "formal": false
+  }
+}
